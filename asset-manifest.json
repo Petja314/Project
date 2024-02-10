@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.80003d63.css",
-    "main.js": "/Project/static/js/main.0ae86d55.js",
+    "main.css": "/Project/static/css/main.6b384d00.css",
+    "main.js": "/Project/static/js/main.433b89b3.js",
+    "static/media/menubackground.png": "/Project/static/media/menubackground.d59722b8fa63c33c412d.png",
     "static/media/user_15.gif": "/Project/static/media/user_15.f299625918c991e28064.gif",
     "static/media/user_14.gif": "/Project/static/media/user_14.b3d0ddebf8c6235cc66d.gif",
     "static/media/user_8.gif": "/Project/static/media/user_8.05216e67a1061d127059.gif",
@@ -28,14 +29,17 @@
     "static/media/robot-b3.png": "/Project/static/media/robot-b3.1b6125d6f515aab6f0ed.png",
     "static/media/robot-b4.png": "/Project/static/media/robot-b4.45e58450fceca5557373.png",
     "static/media/HackerNoonV2.ttf": "/Project/static/media/HackerNoonV2.eb729a92c367bf45eed3.ttf",
+    "static/media/send.png": "/Project/static/media/send.d1971aa0f2950eaae6a9.png",
     "static/media/HackerNoonV1.ttf": "/Project/static/media/HackerNoonV1.2fc00d3c11f8905b373f.ttf",
     "static/media/spinning-circles.svg": "/Project/static/media/spinning-circles.cff806a7c5b3edb7401158f6331682a1.svg",
+    "static/media/logout.svg": "/Project/static/media/logout.7471810035755df31f8ac4a968979ba0.svg",
     "index.html": "/Project/index.html",
-    "main.80003d63.css.map": "/Project/static/css/main.80003d63.css.map",
-    "main.0ae86d55.js.map": "/Project/static/js/main.0ae86d55.js.map"
+    "static/media/closemenu.svg": "/Project/static/media/closemenu.6d5e86d96cd821610586e728c5b2f03b.svg",
+    "main.6b384d00.css.map": "/Project/static/css/main.6b384d00.css.map",
+    "main.433b89b3.js.map": "/Project/static/js/main.433b89b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.80003d63.css",
-    "static/js/main.0ae86d55.js"
+    "static/css/main.6b384d00.css",
+    "static/js/main.433b89b3.js"
   ]
 }

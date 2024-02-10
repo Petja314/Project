@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Petja314/socialnetwork_samurai.git/static/css/main.70dedcff.css",
-    "main.js": "/Petja314/socialnetwork_samurai.git/static/js/main.5fde7f49.js",
+    "main.js": "/Petja314/socialnetwork_samurai.git/static/js/main.86090867.js",
     "static/media/menubackground.png": "/Petja314/socialnetwork_samurai.git/static/media/menubackground.d59722b8fa63c33c412d.png",
     "static/media/user_15.gif": "/Petja314/socialnetwork_samurai.git/static/media/user_15.f299625918c991e28064.gif",
     "static/media/user_14.gif": "/Petja314/socialnetwork_samurai.git/static/media/user_14.b3d0ddebf8c6235cc66d.gif",
@@ -35,10 +35,10 @@
     "static/media/logout.svg": "/Petja314/socialnetwork_samurai.git/static/media/logout.7471810035755df31f8ac4a968979ba0.svg",
     "static/media/closemenu.svg": "/Petja314/socialnetwork_samurai.git/static/media/closemenu.6d5e86d96cd821610586e728c5b2f03b.svg",
     "main.70dedcff.css.map": "/Petja314/socialnetwork_samurai.git/static/css/main.70dedcff.css.map",
-    "main.5fde7f49.js.map": "/Petja314/socialnetwork_samurai.git/static/js/main.5fde7f49.js.map"
+    "main.86090867.js.map": "/Petja314/socialnetwork_samurai.git/static/js/main.86090867.js.map"
   },
   "entrypoints": [
     "static/css/main.70dedcff.css",
-    "static/js/main.5fde7f49.js"
+    "static/js/main.86090867.js"
   ]
 }
